@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mikee100!
+# 👋 Hi, I'm Mike
 
 Welcome to my GitHub profile! Here you'll find the projects I'm currently working on and my journey in the world of software development.
 
@@ -21,7 +21,7 @@ I’m always open to collaborating on projects related to:
 
 ## 📫 How to reach me:
 - **Email:** mikekariuki10028@gmail.com
-- 
+
 Feel free to explore my repositories, and let’s connect! ✨
 
 ---
